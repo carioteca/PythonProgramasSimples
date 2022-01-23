@@ -14,3 +14,4 @@ while r == 0:
     time.sleep(20)
     os.system('cls' if os.name == 'nt' else 'clear')
     
+# Irá digitar o nome e sobrenome, ele irá mostrar apenas o nome aplicado o Capitalize.
