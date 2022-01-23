@@ -1,2 +1,2 @@
 # Python Programas
-Programas simples que desenvolvi em Python
+Projetos simples que desenvolvi em Python 
