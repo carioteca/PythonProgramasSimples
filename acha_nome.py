@@ -1,6 +1,8 @@
 import os
 import time
 
+# =>  Irá digitar o nome e sobrenome, ele irá mostrar apenas o nome aplicado o Capitalize.
+
 r = 0
 while r == 0:
     pass
@@ -14,4 +16,3 @@ while r == 0:
     time.sleep(20)
     os.system('cls' if os.name == 'nt' else 'clear')
     
-# Irá digitar o nome e sobrenome, ele irá mostrar apenas o nome aplicado o Capitalize.
