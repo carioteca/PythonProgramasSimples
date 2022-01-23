@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-# => Ele mostra o tamanho da imagem
+# => Programa mostra o tamanho da imagem
 
 #Limpa tela
 os.system('cls') 
