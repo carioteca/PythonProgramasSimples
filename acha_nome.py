@@ -13,4 +13,4 @@ while r == 0:
     print(nome)
     time.sleep(20)
     os.system('cls' if os.name == 'nt' else 'clear')
-    
+    
