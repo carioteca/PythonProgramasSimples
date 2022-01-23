@@ -1,6 +1,7 @@
 from PIL import Image
 import os
 
+# => Ele mostra o tamanho da imagem
 
 #Limpa tela
 os.system('cls') 
@@ -35,4 +36,4 @@ def MostraTamanho(im):
 
 MostraTamanho(im)
 
-# Ele mostra o tamanho da imagem
+
