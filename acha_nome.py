@@ -1,7 +1,7 @@
 import os
 import time
 
-# =>  Irá digitar o nome e sobrenome, ele irá mostrar apenas o nome aplicado o Capitalize.
+# =>  Irá digitar o nome e sobrenome, ele irá mostrar apenas o nome.
 
 r = 0
 while r == 0:
